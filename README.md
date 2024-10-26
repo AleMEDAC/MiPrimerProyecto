@@ -1,2 +1,2 @@
-# Mi Primer Proyecto en Gitgit initgit init
+# Mi Primer Proyecto en Git
 # Version2.0
